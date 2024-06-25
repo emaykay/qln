@@ -1,4 +1,4 @@
-**Quick Little Notebook 1.0**
+**Quick Little Notebook 1.1.0**
 
 A quick little CLI notebook for quick little thoughts...
 
