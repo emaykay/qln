@@ -1,0 +1,3 @@
+Quick Little Notebook 1.0
+
+A quick little notebook for quick little thoughts...
