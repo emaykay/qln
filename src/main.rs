@@ -37,7 +37,7 @@ fn main() -> Result<(), Error> {
     writeln!(file, "{}Z - {}", Utc::now().format("%Y-%m-%d %H:%M:%S"), text_to_save)?;
 
     // Print confirmation message
-    println!("Your note has been saved to '{}'. Timestamp: {}Z", notebook_path.display(), Utc::now().format("%Y-%m-%d %H:%M:%S"));
+    println!("Your note has been saved to '{}' with the timestamp {}Z", notebook_path.display(), Utc::now().format("%Y-%m-%d %H:%M:%S"));
 
     Ok(())
 }
